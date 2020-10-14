@@ -25,3 +25,7 @@ INFO  | 2020-10-15 00:11:45 | [main] StackAndQueue.MyLinkedList (MyLinkedList.ja
 INFO  | 2020-10-15 00:11:45 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 70
 INFO  | 2020-10-15 00:11:45 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 56->30->70
 INFO  | 2020-10-15 00:19:14 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 56->30->70
+INFO  | 2020-10-15 00:24:40 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 56->30->70
+INFO  | 2020-10-15 00:24:40 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 30->70
+INFO  | 2020-10-15 00:24:40 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 70
+INFO  | 2020-10-15 00:24:40 | [main] StackAndQueue.MyLinkedList (MyLinkedList.java:119) - My Nodes: 56->30->70
